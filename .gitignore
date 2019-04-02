@@ -1,1 +1,3 @@
-/*.txt
+#Ignore the CMakeLists made by the Catkin_WS, will be different for every user
+!*/CMakeLists.txt
+/CMakeLists.txt
